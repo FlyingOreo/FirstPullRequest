@@ -27,7 +27,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Chandrasekhar, Dhruva
 
-- [ ] Chiu, Oriana
+- [X] Chiu, Oriana
 
 - [ ] Choi, Joe
 
@@ -59,7 +59,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Huang, Valerie
 
-- [x ] Jenkins, Michael 🇬🇧
+- [ ] Jenkins, Michael
 
 - [ ] Kato, Ryosuke
 
